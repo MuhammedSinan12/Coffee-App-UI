@@ -7,6 +7,6 @@ Designed With Flutter
 <td align="center">Coffee App Ui</td>
 </tr>
 <tr>
-    <td align="center"><img src="Screenshots/CoffeeApp.jpg"> </td>
+    <td align="center"><img src="Screenshot/CoffeeApp.jpg"> </td>
  </tr>
 </table>
